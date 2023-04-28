@@ -35,6 +35,8 @@ services:
     depends_on:
       - redis
       - postgres
+    volumes:
+      - /.env:/products/.env
     networks:
       genTech-task1-network:
         ipv4_address: 172.24.0.4
