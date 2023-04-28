@@ -1,0 +1,49 @@
+version: "3"
+services:
+  redis:
+    container_name: genTech_redis
+    image: redis/redis-stack
+    ports:
+      - "6379:6379"
+      - "8001:8001"
+    networks:
+      genTech-task1-network:
+        ipv4_address: 172.24.0.2
+
+  postgres:
+    container_name: genTech_db
+    image: postgres:latest
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    networks:
+      genTech-task1-network:
+        ipv4_address: 172.24.0.3
+
+    volumes:
+      - ./db.sql:/db.sql
+      - ./db.sh:/db.sh
+
+  product-service:
+    container_name: genTech_product_service
+    image: mosta1489/product_service:latest
+    # build: .
+    ports:
+      - "3000:3000"
+    depends_on:
+      - redis
+      - postgres
+    networks:
+      genTech-task1-network:
+        ipv4_address: 172.24.0.4
+
+networks:
+  genTech-task1-network:
+    driver: bridge
+    ipam:
+      driver: default
+      config:
+        - subnet: 172.24.0.0/24
+          gateway: 172.24.0.1

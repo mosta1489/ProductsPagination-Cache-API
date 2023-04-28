@@ -1,0 +1,162 @@
+4/28/2023, 7:01:13 AM | INFO | 200 |
+    request: GET | / | -ip: ::1 |- body: {} |
+
+4/28/2023, 7:01:59 AM | INFO | 200 |
+    request: GET | / | -ip: ::1 |- body: {} |
+
+4/28/2023, 7:02:23 AM | INFO | 200 |
+    request: GET | / | -ip: ::1 |- body: {} |
+
+4/28/2023, 7:03:01 AM | INFO | 200 |
+    request: GET | / | -ip: ::1 |- body: {} |
+
+4/28/2023, 7:03:17 AM | INFO | 200 |
+    request: GET | /test | -ip: ::1 |- body: {} |
+
+4/28/2023, 7:04:00 AM | INFO | 200 |
+    request: GET | / | -ip: ::1 |- body: {} |
+
+4/28/2023, 7:05:09 AM | INFO | 200 |
+    request: GET | / | -ip: ::1 |- body: {} |
+
+4/28/2023, 7:17:22 AM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 7:17:52 AM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 11:34:58 AM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 11:35:49 AM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 11:36:15 AM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 11:36:19 AM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 11:36:43 AM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 11:37:01 AM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 11:37:07 AM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 11:37:53 AM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 11:39:08 AM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 11:39:56 AM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 11:41:19 AM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 11:42:51 AM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 11:49:20 AM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 11:49:26 AM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 11:52:02 AM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 11:53:14 AM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 11:53:19 AM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 11:53:31 AM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 11:53:43 AM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 1:58:50 PM | INFO | 200 |
+    request: GET | / | -ip: ::ffff:127.0.0.1 |- body: {} |
+
+4/28/2023, 2:09:17 PM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 2:09:43 PM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 2:09:51 PM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 2:09:52 PM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 2:09:58 PM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 2:09:59 PM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 2:10:01 PM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 2:10:03 PM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 2:10:04 PM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 2:10:17 PM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 2:10:19 PM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 2:30:35 PM | INFO | 200 |
+    request: GET | /products | -ip: ::ffff:127.0.0.1 |- body: {} |
+
+4/28/2023, 2:30:35 PM | INFO | 200 |
+    request: GET | /products | -ip: ::ffff:127.0.0.1 |- body: {} |
+
+4/28/2023, 2:31:54 PM | INFO | 200 |
+    request: GET | /products | -ip: ::ffff:127.0.0.1 |- body: {} |
+
+4/28/2023, 2:31:54 PM | INFO | 200 |
+    request: GET | /products | -ip: ::ffff:127.0.0.1 |- body: {} |
+
+4/28/2023, 2:32:23 PM | INFO | 200 |
+    request: GET | /products | -ip: ::ffff:127.0.0.1 |- body: {} |
+
+4/28/2023, 2:32:23 PM | INFO | 200 |
+    request: GET | /products | -ip: ::ffff:127.0.0.1 |- body: {} |
+
+4/28/2023, 2:33:14 PM | INFO | 200 |
+    request: GET | /products | -ip: ::ffff:127.0.0.1 |- body: {} |
+
+4/28/2023, 2:33:14 PM | INFO | 200 |
+    request: GET | /products | -ip: ::ffff:127.0.0.1 |- body: {} |
+
+4/28/2023, 3:32:34 PM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 3:33:25 PM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 3:33:53 PM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 3:36:17 PM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 3:38:18 PM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+
+4/28/2023, 3:50:02 PM | INFO | 200 |
+    request: GET | /products | -ip: ::1 |- body: {} |
+

@@ -1,0 +1,27 @@
+4/28/2023, 2:03:50 PM | ERROR | Error connecting to Data Base  ❌ ❌ ❌ | 
+    - message: "connect ECONNREFUSED 172.17.0.1:5432" |
+
+4/28/2023, 2:03:50 PM | ERROR | Error connecting to Redis ❌ ❌ ❌  | 
+    - message: "connect ECONNREFUSED 127.0.0.1:6379" |
+
+4/28/2023, 3:32:20 PM | ERROR | Error connecting to Redis ❌ ❌ ❌  | 
+    - message: "Connection timeout" |
+
+4/28/2023, 3:33:21 PM | ERROR | Error connecting to Redis ❌ ❌ ❌  | 
+    - message: "Connection timeout" |
+
+4/28/2023, 3:33:45 PM | ERROR | Error connecting to Redis ❌ ❌ ❌  | 
+    - message: "Connection timeout" |
+
+4/28/2023, 3:35:27 PM | ERROR | Error connecting to Redis ❌ ❌ ❌  | 
+    - message: "Connection timeout" |
+
+4/28/2023, 3:35:43 PM | ERROR | Error connecting to Redis ❌ ❌ ❌  | 
+    - message: "Connection timeout" |
+
+4/28/2023, 3:48:37 PM | ERROR | Error connecting to Redis ❌ ❌ ❌  | 
+    - message: "Connection timeout" |
+
+4/28/2023, 3:49:55 PM | ERROR | Error connecting to Redis ❌ ❌ ❌  | 
+    - message: "Connection timeout" |
+
