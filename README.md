@@ -56,6 +56,10 @@ Retrieves a list of products with pagination.
 
 #### [http://172.190.14.21:3000/products?page=3&limit=10](http://172.190.14.21:3000/products?page=5&limit=10)
 
+## the docker images are available on docker hub:
+
+#### [https://hub.docker.com/repository/docker/mosta1489/product_service/general](hhttps://hub.docker.com/repository/docker/mosta1489/product_service/general)
+
 ## Technologies
 
 - PostgreSQL
