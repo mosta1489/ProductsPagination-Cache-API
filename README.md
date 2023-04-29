@@ -58,7 +58,7 @@ Retrieves a list of products with pagination.
 
 ## the docker images are available on docker hub:
 
-#### [https://hub.docker.com/repository/docker/mosta1489/product_service/general](hhttps://hub.docker.com/repository/docker/mosta1489/product_service/general)
+#### [https://hub.docker.com/repository/docker/mosta1489/product_service/general](https://hub.docker.com/repository/docker/mosta1489/product_service/general)
 
 ## Technologies
 
